@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jenith_portfolio/static/css/main.e2b4bc54.css",
+    "main.js": "/Jenith_portfolio/static/js/main.1d2217d9.js",
+    "index.html": "/Jenith_portfolio/index.html",
+    "main.e2b4bc54.css.map": "/Jenith_portfolio/static/css/main.e2b4bc54.css.map",
+    "main.1d2217d9.js.map": "/Jenith_portfolio/static/js/main.1d2217d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2b4bc54.css",
+    "static/js/main.1d2217d9.js"
+  ]
+}
