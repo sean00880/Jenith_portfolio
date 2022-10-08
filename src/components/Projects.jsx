@@ -6,13 +6,13 @@ function Projects() {
   const [projects] = useState([
     {
       title: "Project 1",
-      img: "/Jenith_portfolio/projects/2.png",
+      img: "/Jenith_portfolio/public/projects/2.png",
       gLink: "https://github.com/",
       lLink: "/",
     },
     {
       title: "Project 2",
-      img: "/Jenith_portfolio/projects/2.png",
+      img: "/Jenith_portfolio/public/projects/2.png",
       gLink: "https://github.com/",
       lLink: "/",
     },
