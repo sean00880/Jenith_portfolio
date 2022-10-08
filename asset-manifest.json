@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Jenith_portfolio/static/css/main.e2b4bc54.css",
-    "main.js": "/Jenith_portfolio/static/js/main.1d8590b2.js",
+    "main.js": "/Jenith_portfolio/static/js/main.71de0c31.js",
     "index.html": "/Jenith_portfolio/index.html",
     "main.e2b4bc54.css.map": "/Jenith_portfolio/static/css/main.e2b4bc54.css.map",
-    "main.1d8590b2.js.map": "/Jenith_portfolio/static/js/main.1d8590b2.js.map"
+    "main.71de0c31.js.map": "/Jenith_portfolio/static/js/main.71de0c31.js.map"
   },
   "entrypoints": [
     "static/css/main.e2b4bc54.css",
-    "static/js/main.1d8590b2.js"
+    "static/js/main.71de0c31.js"
   ]
 }
