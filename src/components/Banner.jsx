@@ -7,7 +7,7 @@ function Banner() {
       <div className="container">
         <div className="banner-wrapper">
           <div className="banner-img">
-            <img src="../../public/person.png" alt="" />
+            <img src="/Jenith_portfolio/person.png" alt="" />
           </div>
           <div className="banner-content">
             <h2>Greetings, I'm Jenith Sunkara</h2>
