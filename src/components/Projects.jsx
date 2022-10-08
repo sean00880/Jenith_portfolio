@@ -5,15 +5,15 @@ import { useState } from "react";
 function Projects() {
   const [projects] = useState([
     {
-      title: "Project 1",
+      title: "2D Engless Runner",
       img: "/Jenith_portfolio/projects/2.png",
       gLink: "https://github.com/",
       lLink: "/",
     },
     {
-      title: "Project 2",
+      title: "Portfolio Website",
       img: "/Jenith_portfolio/projects/2.png",
-      gLink: "https://github.com/",
+      gLink: "https://sean00880.github.com/Jenith_portfolio/",
       lLink: "/",
     },
 

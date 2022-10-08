@@ -11,12 +11,9 @@ function Banner() {
           </div>
           <div className="banner-content">
             <h2>Greetings, I'm Jenith Sunkara</h2>
-            <h3>A Web Developer</h3>
+            <h3>A Game Developer</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum,
-              magni possimus in architecto repellat perspiciatis cum recusandae
-              adipisci culpa voluptatem dolorem laudantium temporibus quos
-              laborum, beatae sint delectus expedita quo.
+              I have a passion for developing 3D games and static websites and plan on using my experience and drive to serve others in need. Hire me today so we can start working on your next big idea! 
             </p>
             <a className="btn" href="#projects">
               About Me
