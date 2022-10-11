@@ -62,7 +62,7 @@ header.sticky {
   transition: 0.3s;
   position: sticky;
   top: 0;
-  background: whitesmoke;
+  background: rgba(245, 245, 245, 0);
   height: 173px;
 }
 
