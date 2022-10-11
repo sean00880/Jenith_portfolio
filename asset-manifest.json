@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Jenith_portfolio/static/css/main.e2b4bc54.css",
-    "main.js": "/Jenith_portfolio/static/js/main.71de0c31.js",
+    "main.css": "/Jenith_portfolio/static/css/main.b8c9f6f4.css",
+    "main.js": "/Jenith_portfolio/static/js/main.97141406.js",
     "index.html": "/Jenith_portfolio/index.html",
-    "main.e2b4bc54.css.map": "/Jenith_portfolio/static/css/main.e2b4bc54.css.map",
-    "main.71de0c31.js.map": "/Jenith_portfolio/static/js/main.71de0c31.js.map"
+    "main.b8c9f6f4.css.map": "/Jenith_portfolio/static/css/main.b8c9f6f4.css.map",
+    "main.97141406.js.map": "/Jenith_portfolio/static/js/main.97141406.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2b4bc54.css",
-    "static/js/main.71de0c31.js"
+    "static/css/main.b8c9f6f4.css",
+    "static/js/main.97141406.js"
   ]
 }
