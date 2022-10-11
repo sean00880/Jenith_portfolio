@@ -25,11 +25,11 @@ body {
 }
 .container,
 .header-inner {
-  max-width: 1200px;
-  padding: 20px;
+  padding: 0 150px;
   width: 100%;
   margin: auto;
 }
+
 .btn {
   display: flex;
   justify-content: center;
@@ -449,6 +449,12 @@ footer p i {
 
 /* ============= Media Queries */
 @media (max-width: 969px) {
+  .container,
+.header-inner {
+  padding: 0 75px;
+  width: 100%;
+  margin: auto;
+}
   .services-experience::before {
     width: 40%;
   }
@@ -518,6 +524,14 @@ footer p i {
     font-size: 30px;
     line-height: 40px;
   }
+
+  .container,
+  .header-inner {
+    padding: 0 50px;
+    width: 100%;
+    margin: auto;
+  }
+
   .services-experience::before {
     width: 0;
   }
@@ -555,6 +569,13 @@ footer p i {
 }
 
 @media (max-width: 500px) {
+  .container,
+  .header-inner {
+    padding: 0 30px;
+    width: 100%;
+    margin: auto;
+  }
+
   .portfolio {
     flex: 0 0 100%;
     max-width: 100%;

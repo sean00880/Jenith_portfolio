@@ -5,7 +5,7 @@ import { useState } from "react";
 function Projects() {
   const [projects] = useState([
     {
-      title: "2D Engless Runner",
+      title: "2D Endless Runner",
       img: "/Jenith_portfolio/projects/2.png",
       gLink: "https://github.com/",
       lLink: "/",
