@@ -5,25 +5,25 @@ function ServicesExperience() {
     {
       icon: "fa-paintbrush",
       title: "Front-End Website Development",
-      desc: "About me",
+      desc: "I build Websites with priortiziation on visual appeal as well as functionality and usability.",
       active: false,
     },
     {
       icon: "fa-paintbrush",
       title: "Game Development",
-      desc: "Lorem, ipsum dolor sit amet consectetur adipisicing.",
+      desc: "As a passionate game developer, I use my expertise in order to build unique 3D games using Unity.",
       active: false,
     },
     {
       icon: "fa-pen-to-square",
       title: "Android App Development",
-      desc: "Lorem, ipsum dolor sit amet consectetur adipisicing.",
+      desc: "I have knowledge of fullstack Android Development and can address most client needs successfully.",
       active: false,
     },
     {
       icon: "fa-ruler",
       title: "Blog Writing",
-      desc: "Lorem, ipsum dolor sit amet consectetur adipisicing.",
+      desc: "Content creation (blog writing in particular) is one of my most valuable skills.",
       active: false,
     },
   ]);

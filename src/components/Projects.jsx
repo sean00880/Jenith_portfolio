@@ -50,10 +50,7 @@ function Projects() {
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum
-                ea nobis aut deserunt. Reprehenderit numquam harum facilis
-                beatae praesentium pariatur eligendi non. Explicabo, cupiditate
-                odit vero quo iste numquam obcaecati.
+                This project was created using React JS and was deployed with the help of Github Pages. 
               </p>
             </div>
           ))}
